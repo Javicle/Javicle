@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет 👋
 
-<!--
-**Javicle/Javicle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **Ильяс** — простой парень, изучаю разработку и учу «рецепты» в `cookie_browser`.
 
-Here are some ideas to get you started:
+## 🛠 Стек
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Проекты
+
+| Репозиторий | Описание | Технологии |
+|-------------|----------|------------|
+| [**shiftledger**](https://github.com/Javicle/shiftledger) | Основное приложение | 🐍 Python |
+| [**shiftledger-shared**](https://github.com/Javicle/shiftledger-shared) | Общие файлы для shiftledger и telegram-bot | 🐍 Python |
+| [**sort-files-python**](https://github.com/Javicle/sort-files-python) | Утилита для сортировки файлов по дисциплинам | 🐍 Python |
+| [**Authorization**](https://github.com/Javicle/Authorization) | Микро-сервис авторизации | 🐍 Python |
+| [**Users**](https://github.com/Javicle/Users) | Микро-сервис пользователей | 🐍 Python |
+| [**_ToolsOpenVerse**](https://github.com/Javicle/_ToolsOpenVerse) | Инструменты для библиотеки OpenVerse | 🐍 Python |
+| [**HomeWorkMDK**](https://github.com/Javicle/HomeWorkMDK) | Учебные задания для колледжа | 💻 HTML |
+| [**LootX**](https://github.com/Javicle/LootX) | REST API на Litestar (fork) | 🐍 Python |
+
+> 💡 Если `cookie_browser` еще не загружен — самое время запушить.
+
+---
+🌴 *On vacation, but coding.*
