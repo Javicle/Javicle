@@ -1,6 +1,6 @@
 # Привет 👋
 
-Я **Ильяс** — простой парень, изучаю разработку и учу «рецепты» в `cookie_browser`.
+Я ** Поречный Ильяс** — простой парень, изучаю разработку и учу «рецепты» в `cookie_browser`.
 
 ## 🛠 Стек
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
